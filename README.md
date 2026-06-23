@@ -1,5 +1,6 @@
-# Hi there, I'm Adarsh 👋
+<img width="1584" height="396" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/5e4f63f2-420d-4069-99f2-9f18fe25ed2f" />
 
+# **Hi there, I'm Adarsh 👋**
 ### Software Engineering | AI/ML | Distributed Systems
 
 I am a BTech Computer Science student specializing in AI/ML, passionate about bridging the gap between highly scalable backend architecture and hardware integration. I focus on building high-performance, concurrent systems and exploring the mathematical foundations of machine learning.
