@@ -4,7 +4,7 @@
 
 I am a BTech Computer Science student specializing in AI/ML, passionate about bridging the gap between highly scalable backend architecture and hardware integration. I focus on building high-performance, concurrent systems and exploring the mathematical foundations of machine learning.
 
-* 🎓 Penultimate-year student at VIT Bhopal
+* 🎓 Final-year student at VIT Bhopal
 * 🚀 Currently building: **LiteVector**, a custom asynchronous vector database.
 * 🧠 Exploring: Edge computing, hardware-software hybrid systems, and "vibe coding" methodologies.
 * 📫 Reach me at: adarshsarathy.18@gmail.com or connect on https://www.linkedin.com/in/adarsh-sarathy-896185303/
