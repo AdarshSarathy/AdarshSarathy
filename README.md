@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Adarsh 👋
 
-<!--
-**AdarshSarathy/AdarshSarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering | AI/ML | Distributed Systems
 
-Here are some ideas to get you started:
+I am a BTech Computer Science student specializing in AI/ML, passionate about bridging the gap between highly scalable backend architecture and hardware integration. I focus on building high-performance, concurrent systems and exploring the mathematical foundations of machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Penultimate-year student at VIT Bhopal
+* 🚀 Currently building: **LiteVector**, a custom asynchronous vector database.
+* 🧠 Exploring: Edge computing, hardware-software hybrid systems, and "vibe coding" methodologies.
+* 📫 Reach me at: adarshsarathy.18@gmail.com or connect on https://www.linkedin.com/in/adarsh-sarathy-896185303/
+
+### 🛠️ Tech Stack
+**Languages:** Python, C++, JavaScript, HTML/CSS  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, FastAPI  
+**Databases & Tools:** PostgreSQL, MySQL, MongoDB, SQLAlchemy, n8n, Git  
+**Core Competencies:** Algorithm Design, Data Structures, Concurrency, API Development
